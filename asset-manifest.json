@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YouTbue/static/css/main.647af3c6.css",
+    "main.js": "/YouTbue/static/js/main.74da6593.js",
+    "static/js/787.e9ac9bb6.chunk.js": "/YouTbue/static/js/787.e9ac9bb6.chunk.js",
+    "index.html": "/YouTbue/index.html",
+    "main.647af3c6.css.map": "/YouTbue/static/css/main.647af3c6.css.map",
+    "main.74da6593.js.map": "/YouTbue/static/js/main.74da6593.js.map",
+    "787.e9ac9bb6.chunk.js.map": "/YouTbue/static/js/787.e9ac9bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647af3c6.css",
+    "static/js/main.74da6593.js"
+  ]
+}
